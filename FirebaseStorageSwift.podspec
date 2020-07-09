@@ -13,7 +13,7 @@ Firebase Storage provides robust, secure file uploads and downloads from Firebas
   s.authors                 = 'Google, Inc.'
 
   s.source                  = {
-    :git => 'https://github.com/Firebase/firebase-ios-sdk.git',
+    :git => 'https://github.com/taykay08/firebase-ios-sdk.git',
     :tag => 'StorageSwift-' + s.version.to_s
   }
 
